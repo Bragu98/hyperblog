@@ -40,18 +40,16 @@ body
 {
     font-size:20px
 }
-<<<<<<< HEAD
 
 #post
 {
     background:#fff;
     padding:1em
-=======
+}
 #footer
 {
     color: white;
     background: #777;
     text-align: center;
     padding: 0.5em;    
->>>>>>> 4a9fca192735dc1bc7ef28abc4200c53596c3a20
 }
